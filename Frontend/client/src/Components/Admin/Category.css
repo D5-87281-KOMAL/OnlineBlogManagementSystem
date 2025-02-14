@@ -1,0 +1,83 @@
+.admin-dashboard {
+    padding: 20px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .success-message {
+    color: green;
+    margin-bottom: 10px;
+  }
+  
+  .form-container {
+    margin-bottom: 20px;
+  }
+  
+  .form-fields {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .form-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    flex: 1;
+  }
+  
+  .form-button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .add-button {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .update-button {
+    background-color: #ffc107;
+    color: black;
+  }
+  
+  .cancel-button {
+    background-color: #dc3545;
+    color: white;
+  }
+  
+  .category-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .category-table th,
+  .category-table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  
+  .action-button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  .edit-button {
+    background-color: #17a2b8;
+    color: white;
+  }
+  
+  .delete-button {
+    background-color: #dc3545;
+    color: white;
+  }
+
